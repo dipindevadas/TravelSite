@@ -1,0 +1,25 @@
+*{padding: 0px;
+  margin: 0px;}
+
+.bg-teal,.btn-teal{background-color:#236666;}
+
+.text-light{font-weight: bolder;
+           font-size: 20px;}
+
+
+.display-4{font-weight: bolder;
+           }
+.lead{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.h2{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.card_text{font-family:cursive;}
+
+.text-teal{color: teal;
+  font-family: 'Lobster', cursive;}
+
+  .btn-teal{color: white;
+    font-family:cursive;}
+
+
+   
